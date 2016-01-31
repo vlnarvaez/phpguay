@@ -1,0 +1,1 @@
+Este es el repositorio donde iremos colocando los ejercicios del curso PHP guay, disponible en YouTube.
